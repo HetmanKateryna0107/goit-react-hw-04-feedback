@@ -13,7 +13,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-li{
+li {
   list-style-type: none;
 }
 button {
@@ -23,13 +23,13 @@ button {
   display: inline-block;
   padding: 6px 18px;
   border: solid 1px;
-  background-color:yellow;
+  background-color: yellow;
   border-radius: 30px;
 }
-button:not(:last-child){
+button:not(:last-child) {
   margin-right: 10px;
 }
-body{
+body {
   display: flex;
   justify-content: center;
 }
